@@ -1,4 +1,4 @@
 Estamos probando git con linea de comandos y su manejo de 
 diferentes versiones.
 
-Se agrega una linea nueva para ver otra diferencia.
+Hoy hablaremos de sus historia.
