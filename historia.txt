@@ -1,4 +1,4 @@
-Estamos probando git con linea de comandos y su manejo de 
+Estamos probando git y sus manejo de 
 diferentes versiones.
 
-Hoy hablaremos de sus historia y obra maestra.
+Mañana nos enfocaremos en su vida laboral.
